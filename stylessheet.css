@@ -1,0 +1,51 @@
+/* ----- General Page Styling ----- */
+body {
+    background-color: #cecaac;
+    font-family: 'Arial', sans-serif;
+    color: #050000;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* ----- Headings ----- */
+  h1 {
+    font-size: 2.5rem;
+    color: rgb(248, 245, 245);
+    text-align: center;
+  }
+  
+  /* ----- Paragraphs ----- */
+  p {
+    font-size: 1.1rem;
+    color: #0c0b0b;
+  }
+  
+  /* ----- Div Styling for Layout ----- */
+  #header {
+    background-color: #761207;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #main-content {
+    background-color: #766146;
+    padding: 30px;
+    margin: 20px auto;
+    width: 80%;
+    border: 1px solid #ccc;
+  }
+  
+  #footer {
+    background-color:#761207;
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9rem;
+  }
+
+  body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-style: normal; /* or italic, oblique */
+    font-weight: 400;   /* normal = 400, bold = 700 */
+    font-size: 16px;
+    color: #333; /* Text color */
+  }
